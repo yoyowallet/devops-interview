@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "alice",
+    "password": "password",
+    "can_transact": true
+  },
+  {
+    "id": 2,
+    "username": "bob",
+    "password": "password",
+    "can_transact": true
+  },
+  {
+    "id": 3,
+    "username": "charlie",
+    "password": "password",
+    "can_transact": false
+  }
+]

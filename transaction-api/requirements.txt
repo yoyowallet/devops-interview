@@ -1,0 +1,5 @@
+Flask-RQ==0.2
+Flask==0.12
+PyJWT==1.4.2
+redis==2.10.5
+rq==0.7.1
