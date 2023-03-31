@@ -1,5 +1,5 @@
 Flask-RQ==0.2
 Flask==1.0
 PyJWT==1.4.2
-redis==2.10.5
+redis==4.4.4
 rq==0.7.1
